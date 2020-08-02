@@ -1,3 +1,10 @@
 body{
 	background-color: #464DB8FF;
 }
+
+p{
+	font-size: 20px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	color: #57C638FF;
+	letter-spacing: 3px;
+}
