@@ -1,5 +1,8 @@
-body = document.querySelector('body');
+let body = document.querySelector('body');
 
-body.addEventListener('click', function(e) {
-	
-});
+function bgChange() {
+	body.style.background = '#fff';
+}
+
+
+body.addEventListener('click', bgChange);
